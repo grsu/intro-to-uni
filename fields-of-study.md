@@ -1,0 +1,6 @@
+- [Software Engineering ≠ Computer Science](http://www.drdobbs.com/architecture-and-design/software-engineering-computer-science/217701907)
+- http://stackoverflow.com/questions/1047014/what-is-the-difference-between-computer-science-and-information-science
+- see _Classification of Instructional Programs (CIP)_ [site](https://nces.ed.gov/ipeds/cipcode/default.aspx?y=55)
+  - Informatics, https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=55&cipid=89325
+    - это ли _информатика_?
+    - https://ischool.uw.edu/academics/informatics/what-is-informatics
